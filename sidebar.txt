@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[esy:home|Door43 (esy)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-esy|d43-esy repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-esy/archive/master.zip|d43-esy.zip]]
+
+**Recent Changes**
+{{changes>ns = esy}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/esy|Ethnologue data]]
+
